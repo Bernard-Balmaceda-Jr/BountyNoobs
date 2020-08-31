@@ -1,0 +1,40 @@
+BountyResourcesList 
+
+Online----------------------------------------------------------
+
+1. Portswigger-WebSecurityAcademy: 
+  Website: https://portswigger.net/web-security
+  LearningMaterials: 6%
+  VulnerabilityLabs: 18%
+  Apprentice: 11/40
+  Practitioner: 22/109
+  Expert: 0/25
+  
+  PaperBack: The Web Application Hacker's Handbook - Finding and Exploiting Security Flaws 2nd Ed
+  
+2. PentesterLab:
+  Website: https://pentesterlab.com/
+  SolvedExercises: 2
+  CertificatesEarned: 0
+  ExercisesLeft: 276
+  
+3. Praetorian:
+  Website: https://www.praetorian.com/challenges
+  
+4. VulnHub-VulnerableByDesign:
+  Website: http://vulnhub.com/
+  
+5. HackerOne:
+  Website: https://www.hackerone.com/
+  CTF: 9/49
+  
+6. BugCrowd:
+  Website: https://www.bugcrowd.com/
+  
+
+VirtualMachines-------------------------------------------------
+
+1. OWASP Juice Shope
+
+2. bWAPP:
+  VirtualBox: bee-box_v1.6.7z
