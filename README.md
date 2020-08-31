@@ -1,0 +1,2 @@
+# BountyNoobs
+Hunter's Resources
