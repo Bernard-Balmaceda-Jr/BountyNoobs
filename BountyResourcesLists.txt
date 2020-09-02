@@ -14,7 +14,7 @@ Online----------------------------------------------------------
   
 2. PentesterLab:
   Website: https://pentesterlab.com/
-  SolvedExercises: 2
+  SolvedExercises: 4
   CertificatesEarned: 0
   ExercisesLeft: 276
   
